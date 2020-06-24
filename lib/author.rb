@@ -2,8 +2,7 @@ class Author
   
   attr_accessor :name
   
-  def initialize
-    
-  end
+  #def initialize #Not necassary 
+  #end
   
 end
